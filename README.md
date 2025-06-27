@@ -1,12 +1,89 @@
-# React + Vite
+# Nisha's Bliss - Beauty Services Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Nisha's Bliss, a professional beauty services website showcasing expertise in makeup, hairstyling, and mehndi artistry.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Professional Makeup Services**
+  - Bridal Makeup
+  - Bridesmaid Makeup
+  - Party Makeup
+  - Special Occasion Makeup
 
-## Expanding the ESLint configuration
+- **Hairstyling**
+  - Bridal Hairstyles
+  - Braids
+  - Buns
+  - Open Hairstyles
+  - Contemporary Styles
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Mehndi/Henna Art**
+  - Bridal Mehndi
+  - Non-Bridal Designs
+  - Leg Bloom Henna
+  - Modern & Traditional Patterns
+
+## 💻 Technical Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- Modern UI/UX Design
+- Responsive Layout
+- Image Gallery with Modal Views
+- Contact Form Integration
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone [repository-url]
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## 📱 Key Components
+
+- Interactive Image Galleries
+- Booking Modal System
+- Responsive Navigation
+- Contact Form
+- Service Categories
+- Portfolio Showcase
+
+## 🎨 Design Features
+
+- Modern and Professional UI
+- Optimized Image Loading
+- Smooth Transitions
+- Mobile-First Design
+- Easy Navigation
+
+## 📞 Contact
+
+For bookings and inquiries, please use the contact form on the website or reach out through our social media channels.
+
+## 🛠️ Development
+
+This project uses:
+- Vite for fast development and building
+- ESLint for code quality
+- PostCSS for CSS processing
+- Tailwind for utility-first CSS
+
+## 📄 License
+
+All rights reserved. This project and its contents are proprietary.
